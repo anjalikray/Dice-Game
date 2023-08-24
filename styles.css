@@ -30,6 +30,21 @@ img {
   width: 80%;
 }
 
+.btn{
+  display: flex;
+  justify-content: center;
+  
+}
+
+input{
+  font-size: 1.5rem;
+  background-color: #8ebbac;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+  color: #393E46;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
